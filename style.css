@@ -435,7 +435,6 @@ section, main {
     max-height: 300px;
     border-radius: 18px;
     position: relative;
-    animation: abajo .6s;
 }
 
 .sobre_nosotros > h2,
