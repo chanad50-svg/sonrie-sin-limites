@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tusitio.com/sitemap.xml
+Sitemap: https://chanad50-svg.github.io/sonrie-sin-limites/sitemap.xml
